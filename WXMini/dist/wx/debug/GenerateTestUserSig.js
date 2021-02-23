@@ -10,8 +10,8 @@ global.webpackJsonpMpvue([19],{
 /*eslint-disable*/
 
 
-const _SDKAPPID = 0;
-const _SECRETKEY = '';
+const _SDKAPPID = 1400488395;
+const _SECRETKEY = '7775164f7e83a9c0e4cc1cadf28997efa6ae1492dd51645b56196c0ea3a69e55';
 /*
  * Module:   GenerateTestUserSig
  *
